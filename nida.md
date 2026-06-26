@@ -177,8 +177,8 @@ CGPA: **8.0 / 10**
 ## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nidamaigeri&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidamaigeri&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nida140&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nida140&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -186,7 +186,7 @@ CGPA: **8.0 / 10**
 ## GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=nidamaigeri&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Nida140&theme=tokyonight"/>
 </p>
 
 ---
@@ -200,7 +200,7 @@ nidamaigeri@gmail.com
 https://www.linkedin.com/in/nidaharmain-maigeri
 
 **GitHub**  
-https://github.com/nidamaigeri
+https://github.com/nida140
 
 ---
 
